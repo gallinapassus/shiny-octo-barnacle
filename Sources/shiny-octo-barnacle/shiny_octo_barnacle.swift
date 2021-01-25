@@ -1,3 +1,3 @@
 struct shiny_octo_barnacle {
-    var text = "Hello, World!"
+    var text = "Hello World!"
 }
