@@ -26,4 +26,4 @@ jobs:
     - name: Build Linux
       run: swift build -v
     - name: Run Linux tests
-      run: swift test -v --enable-test-discovery
+      run: swift test -v
